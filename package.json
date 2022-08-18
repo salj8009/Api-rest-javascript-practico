@@ -1,0 +1,23 @@
+{
+  "name": "api-rest-javascript-practico",
+  "version": "1.0.0",
+  "description": "consumo de API con JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salj8009/Api-rest-javascript-practico.git"
+  },
+  "keywords": [
+    "API",
+    "JavaScript"
+  ],
+  "author": "JorgeSL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/salj8009/Api-rest-javascript-practico/issues"
+  },
+  "homepage": "https://github.com/salj8009/Api-rest-javascript-practico#readme"
+}
